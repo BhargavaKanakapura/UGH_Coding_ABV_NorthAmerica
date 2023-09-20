@@ -16,6 +16,6 @@ Understanding how to optimize the signals was a huge challenge because we had to
 For now, we used a rudimentary method of optimizing each signal individually over several epochs.
 
 ## Running Our Code
-Run in Google Colab.
+Run FINAL_main.ipynb in Google Colab.
 
 NOTE: It will take a VERY VERY long time to run an entire simulation.
